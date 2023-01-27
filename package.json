@@ -6,6 +6,6 @@
   "author": "Michael Rasoahaingo <michael.rasoahaingo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "figrelease": "file:../figrelease"
+    "figrelease": "../figrelease"
   }
 }
