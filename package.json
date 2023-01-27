@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mrasoahaingo/test-changelog.git",
   "author": "Michael Rasoahaingo <michael.rasoahaingo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "figrelease": "file:../figrelease"
+  }
 }
