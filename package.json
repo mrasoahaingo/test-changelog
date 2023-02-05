@@ -1,6 +1,6 @@
 {
   "name": "test-changelog",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "git@github.com:mrasoahaingo/test-changelog.git",
   "author": "Michael Rasoahaingo <michael.rasoahaingo@gmail.com>",
