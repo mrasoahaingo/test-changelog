@@ -1,3 +1,9 @@
+#### 4.0.0 (2023-02-05)
+
+##### Chores
+
+* **poc:**  test figrelease MIC-1 (a7aa1db7)
+
 #### 2.0.0 (2023-02-05)
 
 ##### Chores
